@@ -12,7 +12,7 @@ Ioana Munteanu
 3. Open it in Processing and press 'Run'.
 
 ## Description
- - I designed a flocking simulation that represents a school of fish in the ocean. Each fish was designed as a green triangle over a yellow triangle with an ellipse for the eye. The simulation will start with 25 fish and will generate 3 more fish per frame until it reaches 50.
+ - I designed a [boids](https://en.wikipedia.org/wiki/Boids) simulation that represents a school of fish in the ocean. Each fish was designed as a green triangle over a yellow triangle with an ellipse for the eye. The simulation will start with 25 fish and will generate 3 more fish per frame until it reaches 50.
  
 ## User interaction
  - mouse left click: add more fish (up to 100)
