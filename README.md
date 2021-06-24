@@ -17,15 +17,15 @@ Ioana Munteanu
 ## User interaction
  - mouse left click: add more fish (up to 100)
  - S: separation feature on
- - s: separation feature off;
- - C: cohesion feature on;
- - c: cohesion feature off;
- - A: alignment feature on;
- - a: alignment feature off;
+ - s: separation feature off
+ - C: cohesion feature on
+ - c: cohesion feature off
+ - A: alignment feature on
+ - a: alignment feature off
  - F: 10 of the fish will follow the mouse and will disappear when then reach it (follow feature)
- - f: follow feature off;
- - d: double the speed of the fish up to a maximum speed;
- - h: reduce the speed of the fish by 2.
+ - f: follow feature off
+ - d: double the speed of the fish up to a maximum speed
+ - h: reduce the speed of the fish by 2
 
 ## Programming language
 - Processing 
